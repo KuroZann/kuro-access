@@ -1,1 +1,13 @@
-["45.142.115.222"]
+{
+  "allowedIps": [""],
+  "users": [
+    {
+      "username": "kurozann",
+      "password": "kuro_zann"
+    },
+    {
+      "username": "kurobot",
+      "password": "kuro_bot"
+    }
+  ]
+}
