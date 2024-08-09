@@ -1,13 +1,1 @@
-{
-  "allowedIps": ["172.18.0.54"],
-  "users": [
-    {
-      "username": "kurozann",
-      "password": "kuro_zann"
-    },
-    {
-      "username": "kurobot",
-      "password": "kuro_bot"
-    }
-  ]
-}
+[""]
